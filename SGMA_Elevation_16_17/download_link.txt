@@ -1,0 +1,14 @@
+Download the data files from 
+https://sgma.water.ca.gov/webgis/?appid=SGMADataViewer#gwlevels
+
+The files should include:
+
+SGMA_Elevation_16_17/GroundwaterElevation.csv
+SGMA_Elevation_16_17/Perforations.csv
+SGMA_Elevation_16_17/PeriodicGWShape.dbf
+SGMA_Elevation_16_17/PeriodicGWShape.prj
+SGMA_Elevation_16_17/PeriodicGWShape.shp
+SGMA_Elevation_16_17/PeriodicGWShape.shx
+SGMA_Elevation_16_17/QueryParameters.txt
+SGMA_Elevation_16_17/README.txt
+SGMA_Elevation_16_17/Station.csv
